@@ -1,7 +1,6 @@
 //**************************************
 //CreditCard.java
-//Aisha Hasan ah3252
-//Februrary 2016 Programming Project 2
+//Aisha Hasan 
 //This class is to determine if a 
 //credit card number is valid.
 //**************************************
